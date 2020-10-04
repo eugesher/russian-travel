@@ -2,10 +2,10 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 1.22;
-  text-decoration-line: none;
+  text-decoration-line: underline;
   color: #fff;
 }
 
 .places__card-link:hover {
-  text-decoration-line: underline;
+  opacity: 0.8;
 }
