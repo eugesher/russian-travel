@@ -3,3 +3,9 @@
   object-position: center;
   object-fit: cover;
 }
+
+@media screen and (max-width: 1279px) {
+  .photo-grid__image {
+    max-width: 300px;
+  }
+}
