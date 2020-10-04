@@ -11,3 +11,10 @@
     width: 90.6%;
   }
 }
+
+@media screen and (max-width: 1023px){
+  .footer {
+    margin-top: 72px;
+    width: 93.8%;
+  }
+}

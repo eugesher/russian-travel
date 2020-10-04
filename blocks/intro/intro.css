@@ -8,3 +8,10 @@
     width: 90.6%;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .intro {
+    width: 93.8%;
+    margin-top: 93px;
+  }
+}

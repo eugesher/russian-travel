@@ -8,3 +8,9 @@
 .places__card-paragraph:last-child {
   margin: 0;
 }
+
+@media screen and (max-width: 1023px){
+  .places__card-paragraph {
+    font-size: 16px;
+  }
+}
