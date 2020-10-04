@@ -2,6 +2,17 @@
   margin-right: 18px;
 }
 
-.footer__link:last-of-type {
+.footer__link:last-child {
   margin-right: 0;
+}
+
+@media screen and (max-width: 767px){
+  .footer__link {
+    margin-right: 0;
+    margin-bottom: 32px;
+  }
+
+  .footer__link:last-child {
+    margin-bottom: 0;
+  }
 }

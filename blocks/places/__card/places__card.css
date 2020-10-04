@@ -1,6 +1,6 @@
 .places__card {
   display: grid;
-  grid-template-rows: max-content max-content;
+  grid-template-rows: repeat(2, max-content);
   grid-template-columns: 1fr 484px;
   gap: 48px 40px;
   margin-bottom: 80px;
@@ -22,5 +22,15 @@
     grid-template-columns: 1fr 352px;
     gap: 48px 28px;
     margin-bottom: 72px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    margin-bottom: 56px;
   }
 }

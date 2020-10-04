@@ -1,3 +1,6 @@
-.places__card-text {
-
+@media screen and (max-width: 767px) {
+  .places__card-text {
+    margin-top: 29px;
+    width: 90%;
+  }
 }

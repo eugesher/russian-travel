@@ -7,3 +7,9 @@
     margin-top: 73px;
   }
 }
+
+@media screen and (max-width: 767px){
+  .photo-grid {
+    margin-top: 50px;
+  }
+}
