@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: center;
   background-color: rgba(42, 44, 47, .3);
+  background-position: center;
   color: #fff;
   text-decoration: none;
 }
