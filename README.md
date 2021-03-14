@@ -1,12 +1,24 @@
 # Путешествие по России
-Проектная работа о путешествии по России.  
-Используемые технологии:  
-Адаптивная вёрстка  
-Flex box  
-Grid layout  
-Media queries  
+Одностраничный сайт о путешествиях по России.
 
-Факультет веб-разработки Яндекс Практикума.  
-Студент **Евгений Чернышов**.
+Функциональность:
+- Адаптивная вёрстка
 
-[Ссылка на проект](https://eugesher.github.io/russian-travel/)
+Стек:
+- HTML
+- CSS
+- Flexbox
+- Grid
+- Media queries
+
+Сборка и запуск приложения:
+
+```shell
+git clone https://github.com/eugesher/russian-travel
+```
+Открыть index.html в браузере.
+
+Статус: завершён.
+
+
+[Ссылка на страницу](https://eugesher.github.io/russian-travel/)
